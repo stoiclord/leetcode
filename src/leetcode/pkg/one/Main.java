@@ -7,6 +7,7 @@ public class Main {
 
 		System.out.println("Start solving leetcode programs");
 		System.out.println("Line 2");
+		System.out.println("Line 3");
 		
 	}
 
