@@ -1,4 +1,4 @@
-package leetcode.pkg.one;
+package com.leetcode;
 
 public class Main {
 
