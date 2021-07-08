@@ -1,8 +1,8 @@
 # Leetcode
 
-Some leetcode problems that I have solved
+Some leetcode problems that I have solved:
 
-### Linked List
+#### Linked List
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
